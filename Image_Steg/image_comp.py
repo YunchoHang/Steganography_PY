@@ -1,3 +1,5 @@
+# A Script to compare encoded image and orginal image. 
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
